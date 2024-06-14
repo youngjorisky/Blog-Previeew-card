@@ -1,1 +1,1 @@
-# Blog-Previeew-card
+# Blog-Preview-card
